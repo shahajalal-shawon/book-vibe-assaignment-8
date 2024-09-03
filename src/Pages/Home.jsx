@@ -1,9 +1,12 @@
-// import Bannar from "../Components/Bannar/Bannar";
+import Bannar from "../Components/Bannar/Bannar";
+
+import Books from "../Components/Books/Books";
 
 const Home = () => {
     return (
         <div>
-            {/* <Bannar></Bannar> */}
+            <Bannar></Bannar>
+            <Books></Books>
         </div>
     );
 };

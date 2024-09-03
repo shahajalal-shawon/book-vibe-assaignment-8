@@ -1,119 +1,119 @@
 [
   {
-    "bookId": 1,
+    "id": 1,
     "bookName": "The Quantum Leap",
     "author": "Jane Doe",
-    "image": "https://example.com/images/quantum-leap.jpg",
-    "review": "An intriguing exploration of quantum mechanics and its implications.",
+    "image": "https://i.ibb.co/YpGGNQn/pngwing-1.png",
+    "review": "An intriguing exploration of quantum mechanics and its implications for both science and philosophy. The author presents complex ideas in a manner that is both accessible and thought-provoking, making it a must-read for anyone interested in the mysteries of the universe. The narrative is rich with historical context and future possibilities, offering a comprehensive understanding of how quantum mechanics could shape the future of technology and human understanding.",
     "totalPage": 320,
     "rating": 4.5,
     "category": "Science Fiction",
     "publisher": "SciTech Publishing",
     "yearOfPublishing": 2019,
-    "tags": ["quantum mechanics", "sci-fi", "adventure"]
+    "tags": ["quantum mechanics", "sci-fi"]
   },
   {
-    "bookId": 2,
+    "id": 2,
     "bookName": "Mastering Web Development",
     "author": "John Smith",
-    "image": "https://example.com/images/web-dev.jpg",
-    "review": "A comprehensive guide to becoming a full-stack web developer.",
+    "image": "https://i.ibb.co/h1TMkMz/kindpng-7318921.png",
+    "review": "A comprehensive guide to becoming a full-stack web developer, this book covers everything from front-end design to back-end server management. The author breaks down complex topics into manageable sections, making it an ideal resource for both beginners and experienced developers. The hands-on examples and real-world case studies make it easy to apply what you learn, ensuring that you can build modern, responsive websites and applications with confidence. It's a go-to manual for anyone looking to excel in web development.",
     "totalPage": 450,
     "rating": 4.8,
     "category": "Technology",
     "publisher": "TechWorld Press",
     "yearOfPublishing": 2022,
-    "tags": ["web development", "full-stack", "coding"]
+    "tags": ["web development", "full-stack"]
   },
   {
-    "bookId": 3,
+    "id": 3,
     "bookName": "The Art of Mindfulness",
     "author": "Emily Brown",
-    "image": "https://example.com/images/mindfulness.jpg",
-    "review": "A peaceful journey into the practice of mindfulness and meditation.",
+    "image": "https://i.ibb.co/PW3jfLz/kindpng-1064993.png",
+    "review": "A peaceful journey into the practice of mindfulness and meditation, this book offers practical techniques to integrate mindfulness into daily life. The author's soothing tone and insightful advice make this a perfect companion for anyone seeking to reduce stress and improve mental well-being. The chapters are filled with exercises and reflections that encourage readers to slow down, live in the moment, and develop a deeper connection with themselves and the world around them. It's an essential read for those looking to cultivate a more mindful lifestyle.",
     "totalPage": 250,
     "rating": 4.7,
     "category": "Self-help",
     "publisher": "Mindful Books",
     "yearOfPublishing": 2020,
-    "tags": ["mindfulness", "meditation", "self-care"]
+    "tags": ["mindfulness", "meditation"]
   },
   {
-    "bookId": 4,
+    "id": 4,
     "bookName": "Mystery of the Forgotten Island",
     "author": "David Williams",
-    "image": "https://example.com/images/forgotten-island.jpg",
-    "review": "A thrilling adventure set on a mysterious, forgotten island.",
+    "image": "https://i.ibb.co/GMbgD06/kindpng-81724-1.png",
+    "review": "A thrilling adventure set on a mysterious, forgotten island, this book keeps you on the edge of your seat from start to finish. The author masterfully weaves together elements of suspense, intrigue, and discovery as the characters unravel the secrets of the island. The vivid descriptions of the island's landscape and its hidden dangers immerse the reader in the story, making it impossible to put the book down. It's a must-read for fans of adventure and mystery who crave an escape into an unknown world full of surprises.",
     "totalPage": 380,
     "rating": 4.2,
     "category": "Adventure",
     "publisher": "Adventure House",
     "yearOfPublishing": 2018,
-    "tags": ["adventure", "mystery", "thriller"]
+    "tags": ["adventure", "mystery"]
   },
   {
-    "bookId": 5,
+    "id": 5,
     "bookName": "The Digital Revolution",
     "author": "Sarah Johnson",
-    "image": "https://example.com/images/digital-revolution.jpg",
-    "review": "An insightful look into the impact of digital technology on society.",
+    "image": "https://i.ibb.co/2q1ywsd/kindpng-2193744-1.png",
+    "review": "An insightful look into the impact of digital technology on society, this book delves deep into how the digital revolution has transformed every aspect of our lives. The author examines both the positive and negative effects of digitalization, from the democratization of information to concerns about privacy and data security. Through a mix of historical analysis and forward-looking predictions, the book provides a balanced perspective on the future of our increasingly connected world. It's an essential read for anyone interested in understanding the forces shaping our modern era.",
     "totalPage": 300,
     "rating": 4.6,
     "category": "Non-fiction",
     "publisher": "Digital Insights Press",
     "yearOfPublishing": 2021,
-    "tags": ["technology", "society", "innovation"]
+    "tags": ["technology", "society"]
   },
   {
-    "bookId": 6,
+    "id": 6,
     "bookName": "Cooking with Spices",
     "author": "Michael Lee",
-    "image": "https://example.com/images/cooking-spices.jpg",
-    "review": "A flavorful guide to cooking with a variety of spices.",
+    "image": "https://i.ibb.co/VL3QNzG/kindpng-2592315-1.png",
+    "review": "A flavorful guide to cooking with a variety of spices, this book is a culinary adventure for anyone looking to add excitement to their meals. The author shares both traditional and innovative recipes that highlight the unique flavors and health benefits of different spices. Each chapter is dedicated to a specific spice, providing background information, tips for use, and mouthwatering recipes that are easy to follow. Whether you're a novice cook or a seasoned chef, this book will inspire you to experiment in the kitchen and elevate your dishes to new heights.",
     "totalPage": 200,
     "rating": 4.9,
     "category": "Cooking",
     "publisher": "Culinary Delights",
     "yearOfPublishing": 2017,
-    "tags": ["cooking", "spices", "recipes"]
+    "tags": ["cooking", "spices"]
   },
   {
-    "bookId": 7,
+    "id": 7,
     "bookName": "Exploring the Cosmos",
     "author": "Linda Martinez",
-    "image": "https://example.com/images/cosmos.jpg",
-    "review": "A fascinating journey through the universe and its mysteries.",
+    "image": "https://i.ibb.co/2y33X6W/kindpng-4022054-1.png",
+    "review": "A fascinating journey through the universe and its mysteries, this book takes readers on a tour of the cosmos, from the smallest particles to the largest galaxies. The author combines scientific rigor with a sense of wonder, making complex concepts accessible to a broad audience. The stunning illustrations and clear explanations help to demystify the vastness of space, offering readers a deeper appreciation for the beauty and complexity of the universe. It's a must-read for anyone with a passion for astronomy and a desire to explore the unknown.",
     "totalPage": 420,
     "rating": 4.4,
     "category": "Science",
     "publisher": "Cosmic Books",
     "yearOfPublishing": 2015,
-    "tags": ["cosmos", "universe", "astronomy"]
+    "tags": ["cosmos", "universe"]
   },
   {
-    "bookId": 8,
+    "id": 8,
     "bookName": "Historical Legends",
     "author": "Robert Brown",
-    "image": "https://example.com/images/historical-legends.jpg",
-    "review": "A captivating collection of legends from around the world.",
+    "image": "https://i.ibb.co/YffhH2S/kindpng-4945926-1.png",
+    "review": "A captivating collection of legends from around the world, this book brings to life the stories that have shaped cultures and traditions for centuries. The author presents each legend with vivid detail and cultural context, making it easy to understand the significance of these tales in their respective societies. The book is not just a retelling of old stories but also an exploration of the human experience, showing how myths and legends continue to influence our world today. It's a treasure trove of knowledge for history enthusiasts and storytellers alike.",
     "totalPage": 340,
     "rating": 4.3,
     "category": "History",
     "publisher": "Global History Press",
     "yearOfPublishing": 2016,
-    "tags": ["history", "legends", "world"]
+    "tags": ["history", "legends"]
   },
   {
-    "bookId": 9,
+    "id": 9,
     "bookName": "The Future of AI",
     "author": "Karen Davis",
-    "image": "https://example.com/images/future-ai.jpg",
-    "review": "An in-depth analysis of the future possibilities and challenges of AI.",
+    "image": "https://i.ibb.co/LZDghnx/kindpng-5624060-1.png",
+    "review": "An in-depth analysis of the future possibilities and challenges of AI, this book offers a comprehensive overview of the current state of artificial intelligence and its potential to transform industries and society. The author explores both the opportunities and ethical dilemmas posed by AI, providing a balanced perspective on its impact. Through interviews with leading experts and detailed case studies, the book offers insights into how AI is already changing the world and what the future may hold. It's a must-read for anyone interested in the cutting edge of technology.",
     "totalPage": 310,
     "rating": 4.7,
     "category": "Technology",
     "publisher": "AI Insights",
     "yearOfPublishing": 2023,
-    "tags": ["artificial intelligence", "technology", "future"]
+    "tags": ["artificial intelligence", "technology"]
   }
 ]
