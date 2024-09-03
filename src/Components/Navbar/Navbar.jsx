@@ -63,7 +63,9 @@ const Navbar = () => {
           </ul>
         </div>
         <Link to="/">
-          <a className="text-2xl font-bold">Book Vibe</a>
+          <a className="text-3xl font-bold">
+            Book<span className="text-green-600">Vibe</span>
+          </a>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
